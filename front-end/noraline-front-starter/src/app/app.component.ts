@@ -10,4 +10,9 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'noraline-front-starter';
+  checkError() {
+    var err = 10;
+    
+    return err;
+  }
 }
