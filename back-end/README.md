@@ -2,6 +2,16 @@
 
 This guide provides detailed steps to set up a basic Node.js API using Express, Body-Parser, and CORS.
 
+
+## Table of Contents
+
+1. [Project Initialization](#step-1-project-initialization)
+2. [Install Required Packages](#step-2-install-required-packages)
+3. [Set Up Express Server](#step-3-set-up-express-server)
+4. [Run and Test the Server](#step-4-run-and-test-the-server)
+5. [Additional Resources](#additional-resources)
+
+
 ## Step 1: Set Up Your Project
 
 1. **Navigate to the Project Directory**:
@@ -106,6 +116,14 @@ This guide provides detailed steps to set up a basic Node.js API using Express, 
 
     You should see the message "Hello World!".
 
----
 
+
+## Additional Resources
+
+- [Express Documentation](https://expressjs.com/)
+- [Body-Parser Documentation](https://www.npmjs.com/package/body-parser)
+- [CORS Documentation](https://www.npmjs.com/package/cors)
+- [Node.js Official Website](https://nodejs.org/)
+
+----
 By following these steps, you will have a basic Node.js server running with Express, Body-Parser, and CORS configured. You can now proceed to define additional routes and functionality for your API.
